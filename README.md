@@ -33,7 +33,7 @@ Enabled: Checked
 ```
 [Task Settings Tab]
 [Run Command] User-defined script
-    curl https://raw.githubusercontent.com/namukcom/SynologyCloudflareDDNS/master/setddns.py | python3 -
+    curl https://raw.githubusercontent.com/AoiMoonLight/SynologyCloudflareDDNS/master/setddns.py | python3 -
 ```
 
 3. Press OK
